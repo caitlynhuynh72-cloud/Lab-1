@@ -6,6 +6,7 @@
 
 header {
     padding: 20px;
+    text-align: center;
 }
 
 @media(min-width: 768px) {
@@ -15,5 +16,20 @@ header {
         width: 30%;
         margin-right: 3%;
         vertical-align:top;
+        
+        
     }
 }
+
+@media(min-width: 600px) {
+    vertical-align: top; width: 100px;
+    margin-bottom: 16px;
+    }
+
+
+
+footer {
+    margin-top: 24px;
+    text-align: center;
+}
+
